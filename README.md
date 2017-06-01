@@ -58,4 +58,6 @@ Medvet, E., Bartoli, A., & Talamini, J. (2017, April). Road Traffic Rules Synthe
 
 Medvet, E. (2017, April). A Comparative Analysis of Dynamic Locality and Redundancy in Grammatical Evolution. In European Conference on Genetic Programming (pp. 326-342). Springer, Cham.
 
+Lourenço, Nuno, Francisco B. Pereira, and Ernesto Costa. "Unveiling the properties of structured grammatical evolution." Genetic Programming and Evolvable Machines 17.3 (2016): 251-289.
+
 Lourenço, N., Pereira, F. B., & Costa, E. (2015, October). SGE: a structured representation for grammatical evolution. In International Conference on Artificial Evolution (Evolution Artificielle) (pp. 136-148). Springer International Publishing.
