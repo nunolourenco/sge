@@ -1,4 +1,4 @@
-# [This version of SGE is now deprecated. Please refer to https://github.com/nunolourenco/dsge ]
+# This version of SGE is now deprecated. Please refer to https://github.com/nunolourenco/dsge
 
 ## SGE: Structured Grammatical Evolution
 (This is the original version of SGE. We have now a new version, which dynamically adjusts the size of the genotype. Please check: https://github.com/nunolourenco/dsge)
