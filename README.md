@@ -1,4 +1,6 @@
-# SGE: Structured Grammatical Evolution
+# [This version of SGE is now deprecated. Please refer to https://github.com/nunolourenco/dsge ]
+
+## SGE: Structured Grammatical Evolution
 (This is the original version of SGE. We have now a new version, which dynamically adjusts the size of the genotype. Please check: https://github.com/nunolourenco/dsge)
 
 Structured Grammatical Evolution (SGE) is a recent Grammatical Evolution (GE) variant that aims at addressing some of its locality and redundancy issues. The SGE distinctive feature is having a one-to-one correspondence between genes and non-terminals of the grammar being used. If you use this code, a reference to the following work would be greatly appreciated:
